@@ -1,5 +1,6 @@
 {
   "name": "rental-node-api",
+  "author": "Sohel Rana",
   "version": "1.0.0",
   "description": "Renal app REST API",
   "main": "index.js",
